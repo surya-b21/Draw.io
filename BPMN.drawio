@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T01:34:55.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 Edg/85.0.564.51" etag="d6f7woxEoHTnWrO0wSA-" version="13.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-18T01:44:58.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 Edg/85.0.564.51" etag="eV0s46oe_tES5l1-PJuQ" version="13.7.2" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -79,6 +79,21 @@
         </mxCell>
         <mxCell id="cdl7iaLPo2ihgi0OGeSs-24" value="Cek Ketersediaan" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="608.75" y="305" width="82.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="cdl7iaLPo2ihgi0OGeSs-25" value="" style="startArrow=oval;startFill=0;startSize=7;endArrow=block;endFill=0;endSize=10;dashed=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="cdl7iaLPo2ihgi0OGeSs-18" target="cdl7iaLPo2ihgi0OGeSs-24">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="380" y="400" as="sourcePoint" />
+            <mxPoint x="480" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cdl7iaLPo2ihgi0OGeSs-27" value="Cek Solvensi" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cdl7iaLPo2ihgi0OGeSs-28" value="" style="endArrow=block;endFill=1;endSize=6;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cdl7iaLPo2ihgi0OGeSs-21" target="cdl7iaLPo2ihgi0OGeSs-27">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="380" y="490" as="sourcePoint" />
+            <mxPoint x="480" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
