@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T15:45:06.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 Edg/85.0.564.51" etag="rMLxqBK4p_aYDWrnzZMv" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-18T16:02:00.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 Edg/85.0.564.51" etag="1aKEE9v2K94GDURKf-VO" version="13.7.3" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
-    <mxGraphModel dx="1278" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,18 +28,15 @@
         <mxCell id="cdl7iaLPo2ihgi0OGeSs-10" value="Pemesanan" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="365" y="55" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cdl7iaLPo2ihgi0OGeSs-12" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=standard;symbol=message;" parent="1" vertex="1">
-          <mxGeometry x="400" y="210" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="cdl7iaLPo2ihgi0OGeSs-13" value="" style="startArrow=oval;startFill=0;startSize=7;endArrow=block;endFill=0;endSize=10;dashed=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cdl7iaLPo2ihgi0OGeSs-10" target="cdl7iaLPo2ihgi0OGeSs-12" edge="1">
+        <mxCell id="cdl7iaLPo2ihgi0OGeSs-13" value="" style="startArrow=oval;startFill=0;startSize=7;endArrow=block;endFill=0;endSize=10;dashed=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cdl7iaLPo2ihgi0OGeSs-10" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="380" y="300" as="sourcePoint" />
-            <mxPoint x="480" y="300" as="targetPoint" />
+            <mxPoint x="425" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cdl7iaLPo2ihgi0OGeSs-14" value="" style="endArrow=block;endFill=1;endSize=6;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="cdl7iaLPo2ihgi0OGeSs-12" edge="1">
+        <mxCell id="cdl7iaLPo2ihgi0OGeSs-14" value="" style="endArrow=block;endFill=1;endSize=6;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="470" y="240" as="sourcePoint" />
+            <mxPoint x="450" y="235" as="sourcePoint" />
             <mxPoint x="500" y="235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -71,9 +68,9 @@
         <mxCell id="cdl7iaLPo2ihgi0OGeSs-21" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=parallelGw;" parent="1" vertex="1">
           <mxGeometry x="400" y="310" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cdl7iaLPo2ihgi0OGeSs-22" value="" style="endArrow=block;endFill=1;endSize=6;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cdl7iaLPo2ihgi0OGeSs-12" target="cdl7iaLPo2ihgi0OGeSs-21" edge="1">
+        <mxCell id="cdl7iaLPo2ihgi0OGeSs-22" value="" style="endArrow=block;endFill=1;endSize=6;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="cdl7iaLPo2ihgi0OGeSs-21" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="380" y="300" as="sourcePoint" />
+            <mxPoint x="425" y="260" as="sourcePoint" />
             <mxPoint x="480" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -98,8 +95,14 @@
         <mxCell id="pvFC6_-XwpLg9ONSk4Xd-18" value="Pemesanan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="cdl7iaLPo2ihgi0OGeSs-34" vertex="1">
           <mxGeometry x="640" y="45" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="YunMnRFhj4Z7oiku-1ot-1" value="Memesan&lt;br&gt;Perjalanan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cdl7iaLPo2ihgi0OGeSs-34">
+          <mxGeometry x="300" y="45" width="40" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="cdl7iaLPo2ihgi0OGeSs-24" value="Cek Ketersediaan" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="cdl7iaLPo2ihgi0OGeSs-34" vertex="1">
           <mxGeometry x="558.75" y="120" width="82.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="YunMnRFhj4Z7oiku-1ot-2" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=message;" vertex="1" parent="cdl7iaLPo2ihgi0OGeSs-34">
+          <mxGeometry x="350" y="25" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cdl7iaLPo2ihgi0OGeSs-35" value="Divisi Administrasi" style="swimlane;html=1;startSize=20;horizontal=0;" parent="cdl7iaLPo2ihgi0OGeSs-33" vertex="1">
           <mxGeometry x="20" y="180" width="1040" height="180" as="geometry" />
